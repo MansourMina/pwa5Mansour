@@ -1,0 +1,6 @@
+POST http://pwa4-mansour.herokuapp.com/notify
+Content-Type: application/json
+
+{
+    "message": "Hello, you are notified from Mina Mansour via push"
+}
